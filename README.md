@@ -14,7 +14,7 @@ The aim of this code is to create a commercial website for a car tuning service.
 9. Finally, include a footer with links for home, projects, team, and contacts, along with copyright information and social media icons.
 ### PROGRAM:
 #### car.html
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -87,7 +87,7 @@ The aim of this code is to create a commercial website for a car tuning service.
 </html>
 ```
 #### carweb.css
-```
+```css
 body {
     background-color: rgba(0, 0, 0, 0.982);
     height: 125vh;  
