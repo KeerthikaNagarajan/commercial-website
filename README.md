@@ -1,6 +1,19 @@
-# Exp-2 Create a commercial website using HTML & CSS
-## PROGRAM:
-### car.html
+# Ex-02:
+## Create a commercial website using HTML & CSS
+### AIM:
+The aim of this code is to create a commercial website for a car tuning service.
+### ALGORITHM:
+1. Create an HTML document with the necessary structure, including the doctype declaration, opening and closing HTML tags, and head and body sections.
+2. Within the head section, include the title of the webpage and link the CSS file.
+3. Create a container div to hold the main content of the webpage.
+4. Inside the container, include an image of a car as the main visual element using the img tag.
+5. Create another container div for additional content.
+6. Inside this container, include an image aligned to the right and paragraphs to explain the concept of tuning and its benefits.
+7. Add icons and descriptive text for key features of tuning.
+8. Add a stylized text section with two values and descriptions related to performance improvements.
+9. Finally, include a footer with links for home, projects, team, and contacts, along with copyright information and social media icons.
+### PROGRAM:
+#### car.html
 ```
 <!DOCTYPE html>
 <html>
@@ -73,7 +86,7 @@
 </body>
 </html>
 ```
-### carweb.css
+#### carweb.css
 ```
 body {
     background-color: rgba(0, 0, 0, 0.982);
@@ -176,6 +189,8 @@ body {
         background-color:  rgb(211, 71, 6);;
       }
 ```
-## OUTPUT:
+### OUTPUT:
 ![Web capture_6-6-2023_1770_](https://github.com/KeerthikaNagarajan/commercial-website-using-HTML-CSS/assets/93427089/d26af262-7ecf-47f1-90e0-c6caf260c8ab)
 
+### RESULT:
+The code will generate a commercial website with a navigation bar, visual elements, descriptive paragraphs, and relevant images to showcase the car tuning service. The website will have a professional and visually appealing design to attract potential customers and provide them with information about the benefits of tuning their cars.
