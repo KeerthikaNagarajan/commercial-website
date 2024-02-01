@@ -1,5 +1,4 @@
-# Ex-02:
-## Create a commercial website using HTML & CSS
+# Commercial website using HTML & CSS
 ### AIM:
 The aim of this code is to create a commercial website for a car tuning service.
 ### ALGORITHM:
@@ -14,7 +13,7 @@ The aim of this code is to create a commercial website for a car tuning service.
 9. Finally, include a footer with links for home, projects, team, and contacts, along with copyright information and social media icons.
 ### PROGRAM:
 #### car.html
-```html
+```js
 <!DOCTYPE html>
 <html>
 <head>
